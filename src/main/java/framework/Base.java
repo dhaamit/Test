@@ -30,6 +30,7 @@ public class Base {
 		}
 		else if (browserName.equalsIgnoreCase("IE"))
 		{
+			//**Added comments to check GitHub
 			System.setProperty("webdriver.ie.driver","C:\\Softwares\\Drivers\\IEDriver\\IEDriverServer.exe");
 			driver = new InternetExplorerDriver();
 		}
