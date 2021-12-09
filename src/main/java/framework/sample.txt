@@ -3,10 +3,6 @@ a
 b
 c
 ddd
-e
-f
-g
-h
 
 data added in develop branch
 1
