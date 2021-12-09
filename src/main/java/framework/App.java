@@ -20,6 +20,5 @@ public class App {
 		//Added from Test GitPractice
 		System.out.println("Hello System!");
 		System.out.println("Hello Earth!");
-		
 	}
 }
