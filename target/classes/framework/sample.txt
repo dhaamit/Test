@@ -4,6 +4,3 @@ b
 c
 ddd
 e
-f
-g
-h
